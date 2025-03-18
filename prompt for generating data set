@@ -1,4 +1,4 @@
-## If you want to generate your data set for this project use this chatgbt prompt for data generation.
+If you want to generate your data set for this project use this chatgbt prompt for data generation.
 Please create a spreadsheet with 1 lac rows, for Delhi-NCR city. Give the following columns. 
 The data will be for 1 month. use the following column -
 1. Date
