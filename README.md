@@ -1,107 +1,107 @@
 # OLA_Analysis
 
-📌 Project Overview
+###  📌 Project Overview
 
 This project analyzes OLA ride data to extract meaningful insights related to ride trends, pricing, customer preferences, and operational efficiency. The goal is to leverage data analytics techniques to identify patterns, optimize pricing strategies, and enhance user experience.
 
-📂 Dataset
+###  📂 Dataset
 
 The dataset used for this analysis contains ride details, including:
 
-Ride ID: Unique identifier for each ride
+   1. Ride ID: Unique identifier for each ride
 
-Pickup & Drop-off Locations: Geographical details of the ride
+   2. Pickup & Drop-off Locations: Geographical details of the ride
 
-Ride Duration: Time taken for each trip
+   3. Ride Duration: Time taken for each trip
 
-Fare Amount: Cost of each ride
+   4. Fare Amount: Cost of each ride
 
-Distance Covered: Total distance traveled
+   5. Distance Covered: Total distance traveled
 
-Ride Type: Categories like Mini, Micro, Prime, etc.
+   6. Ride Type: Categories like Mini, Micro, Prime, etc.
 
-Date & Time: Timestamp of rides
+   7. Date & Time: Timestamp of rides
 
-Surge Pricing Indicator: Whether surge pricing was applied
+   8. Surge Pricing Indicator: Whether surge pricing was applied
 
-🛠️ Tools & Technologies
+###  🛠️ Tools & Technologies
 
 The following tools and technologies were used in this project:
 
-Programming Languages: Python
+   1. Programming Languages: Python
 
-Data Manipulation & Analysis: Pandas, NumPy
+   2. Data Manipulation & Analysis: Pandas, NumPy
 
-Data Visualization: Matplotlib, Seaborn
+   3. Data Visualization: Matplotlib, Seaborn
 
-Database: PostgreSQL 
+   4. Database: PostgreSQL 
 
-Machine Learning: Scikit-learn (for predictive analytics)
+   5. Machine Learning: Scikit-learn (for predictive analytics)
 
-📊 Key Insights & Findings
+### 📊 Key Insights & Findings
 
-Peak Ride Hours: Identified peak hours when ride demand is highest.
+   1. Peak Ride Hours: Identified peak hours when ride demand is highest.
 
-Price Fluctuations: Analysis of fare variation based on time of day and demand.
+   2. Price Fluctuations: Analysis of fare variation based on time of day and demand.
+  
+   3. Ride Type Preferences: Popularity of different ride types across locations.
 
-Ride Type Preferences: Popularity of different ride types across locations.
+   4. Impact of Surge Pricing: How surge pricing affects customer demand and ride completion rates.
 
-Impact of Surge Pricing: How surge pricing affects customer demand and ride completion rates.
+   5. Distance vs Fare Analysis: Correlation between ride distance and fare charged.
 
-Distance vs Fare Analysis: Correlation between ride distance and fare charged.
-
-🔍 How to Run the Project
+### 🔍 How to Run the Project
 
 Clone the repository:
 
-git clone https://github.com/guptaakshat2002/OLA_Analysis.git
+     git clone https://github.com/guptaakshat2002/OLA_Analysis.git
 
 Navigate to the project directory:
 
-cd OLA_Analysis
+     cd OLA_Analysis
 
 Install dependencies:
 
-pip install -r requirements.txt
+     pip install -r requirements.txt
 
 Run the analysis script:
 
-python analysis.py
+     python analysis.py
 
-📈 Visualizations
+### 📈 Visualizations
 
 The project includes various visualizations such as:
 
-Ride frequency distribution
+   1. Ride frequency distribution
+ 
+   2. Surge pricing impact charts
 
-Surge pricing impact charts
+   3. Heatmaps for pickup and drop-off locations
 
-Heatmaps for pickup and drop-off locations
+   4. Fare trends across different time slots
 
-Fare trends across different time slots
+### 🏗 Future Enhancements
 
-🏗 Future Enhancements
+  * Incorporate real-time data analysis.
 
-Incorporate real-time data analysis.
+  * Implement predictive modeling for fare estimation.
 
-Implement predictive modeling for fare estimation.
+  * Develop an interactive dashboard using Power BI or Tableau.
 
-Develop an interactive dashboard using Power BI or Tableau.
+  * Explore integration with Google Maps API for route optimization.
 
-Explore integration with Google Maps API for route optimization.
-
-👥 Contributors
+### 👥 Contributors
 
 Akshat Gupta 
 
-📜 License
+### 📜 License
 
 This project is open-source and available under the MIT License.
 
-📞 Contact
+### 📞 Contact
 
 For any queries or collaborations, feel free to reach out at:
 
-📧 Email: akshatg989@gmail.com
+### 📧 Email: akshatg989@gmail.com
 
-💼 LinkedIn: [https://www.linkedin.com/in/01-akshat-gupta/]
+💼 LinkedIn: https://www.linkedin.com/in/01-akshat-gupta/
